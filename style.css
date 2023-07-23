@@ -1,0 +1,31 @@
+body{
+    background-color: aliceblue
+}
+
+#abc{
+    width: 470px;
+    margin-left: 150px;
+    margin-top: 200px;
+}
+
+h1{
+    font-size: 55px;
+    color: blue;
+    line-height: 1px;
+}
+
+p{
+    font-size: 30px;
+}
+
+div{
+    width: 410px;
+    height: 350px;
+    border: 2px solid aliceblue;
+    border-radius: 10px;
+    margin-left: 750px;
+    margin-top: -420px;
+}
+.abc{
+    color: white;
+}
